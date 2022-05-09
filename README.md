@@ -1,2 +1,2 @@
-# Only_a_Jest
+# Only_a_Jate
 Just another text editor...
